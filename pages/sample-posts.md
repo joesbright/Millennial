@@ -1,6 +1,6 @@
 ---
-layout: category
-title: Sample Posts
+layout: home
+title: Home
 category: sample
 permalink: /sample-posts
 ---
