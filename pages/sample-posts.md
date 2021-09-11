@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Home
+title: Research Highlights
 category: research
 permalink: /research
 ---
