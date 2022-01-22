@@ -21,20 +21,24 @@ NSF's Karl G. Jansky Very Large Array (VLA) is a peremier instuemnt for transien
     <li>VLA/21A-422 (DDT observations of a fast X-ray transient)</li>
   </ul>
 </details>
-  
-### Co-I
-- VLA/22A-417 (O4 GW follow-up)
-- VLA/22A-378 (Type-II SNe survey)
-- VLA/22A-298 (GRB follow-up)
-- VLA/22A-109 (Interacting SNe follow-up)
-- VLA/22A-108 (FBOT follow-up)
-- VLA/21B-290 (SLSN follow-up)
-- VLA/21B-193 (Calcium rich SNe follow-up)
-- VLA/21B-170 (Very high energy GRB follow-up)
-- VLA/21A-178 (VLASS SNe follow-up)
-- VLA/20A-596 (DDT observations for a nearby GRB)
-- VLA/19B-219 (Radio observations of classical novae)
-- VLA/19A-302 (Studying the jets from Sco X-1)
-- VLA/19A-298 (Radio observations of classical novae)
-- VLA/18A-470 (Observations of the BHXRB MAXI J1820+070)
-- VLA/17A-430 (Observations of the BHXRB Swift J1753)
+
+<details>
+  <summary>Co-I</summary>
+  <ul>
+    <li>VLA/22A-417 (O4 GW follow-up)</ul>
+    <li>VLA/22A-378 (Type-II SNe survey)</ul>
+    <li>VLA/22A-298 (GRB follow-up)</ul>
+    <li>VLA/22A-109 (Interacting SNe follow-up)</ul>
+    <li>VLA/22A-108 (FBOT follow-up)</ul>
+    <li>VLA/21B-290 (SLSN follow-up)</ul>
+    <li>VLA/21B-193 (Calcium rich SNe follow-up)</ul>
+    <li>VLA/21B-170 (Very high energy GRB follow-up)</ul>
+    <li>VLA/21A-178 (VLASS SNe follow-up)</ul>
+    <li>VLA/20A-596 (DDT observations for a nearby GRB)</ul>
+    <li>VLA/19B-219 (Radio observations of classical novae)</ul>
+    <li>VLA/19A-302 (Studying the jets from Sco X-1)</ul>
+    <li>VLA/19A-298 (Radio observations of classical novae)</ul>
+    <li>VLA/18A-470 (Observations of the BHXRB MAXI J1820+070)</ul>
+    <li>VLA/17A-430 (Observations of the BHXRB Swift J1753)</ul>
+  </ul>
+</details>
