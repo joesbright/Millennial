@@ -15,9 +15,11 @@ During my PhD I was an extensive user of the Arcminute Microkelvin Imager Larger
 NSF's Karl G. Jansky Very Large Array (VLA) is a peremier instuemnt for transient follow-up, owing to its high resolution (in A- and B-configuration), sensitivitym and wide frequency coverage. I regularly use the VLA to observe transient sources, and am the PI (or Co-I) on a number of successful proposals.
 
 <details>
-  <summary>### PI</summary>
-  - VLA/22A-363 (Extremely deep observations of GW170817)
-  - VLA/21A-422 (DDT observations of a fast X-ray transient)
+  <summary>PI</summary>
+  <ul>
+    <li>VLA/22A-363 (Extremely deep observations of GW170817)</li>
+    <li>VLA/21A-422 (DDT observations of a fast X-ray transient)</li>
+  </ul>
 </details>
   
 ### Co-I
