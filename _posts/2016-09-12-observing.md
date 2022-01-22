@@ -4,5 +4,6 @@ title: "Observing Experience"
 author: "Joe Bright"
 categories: observing
 tags: [observing]
-image: GCenter_MeerKAT_5000.jpeg
 ---
+
+I am an experienced radio astronomer, having observed with and obtained observing time on many different instruments. 
