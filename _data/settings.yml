@@ -14,11 +14,11 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'linkedin', link:    'https://twitter.com/'}
+- {icon: 'linkedin', link:    'https://www.linkedin.com/in/joe-bright-3476bb222/'}
 
 # Customize site text
-pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+# pagination:
+#  next_page: 'Newer'
+#  previous_page: 'Older'
 
-related_posts: 'You may also enjoy...'
+# related_posts: 'You may also enjoy...'
