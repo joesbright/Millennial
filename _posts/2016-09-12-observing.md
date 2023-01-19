@@ -4,6 +4,7 @@ title: "Observing Experience"
 author: "Joe Bright"
 categories: observing
 tags: [observing]
+image: VLA.png
 ---
 
 I am an experienced radio astronomer, having observed with and obtained observing time on many different instruments. I also have experience reducing and imaging radio data for scientific projects and have employed advanced calibration techniques (third generation calibration) to exploit wide field instruments such as the SKA pathfinder MeerKAT. Publications including data I have reduced can be found [here](https://ui.adsabs.harvard.edu/public-libraries/ppTg0JsAQeKfhFb_waw21Q).
