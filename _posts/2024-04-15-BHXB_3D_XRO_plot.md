@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Black Hole X-ray Binary Radio -- X-ray -- Optical Correlation"
-author: "Ethan Man"
+author: "Candidate 1053572"
 categories: highlights
 tags: [highlights]
 ---
